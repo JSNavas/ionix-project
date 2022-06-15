@@ -1,0 +1,27 @@
+.colorWhite {
+	color: #fff;
+}
+
+.navbar {
+	background: #1266f1;
+}
+
+.navbarBrand {
+	color: #fff;
+	font-weight: 600;
+	font-size: 22px;
+}
+
+.navbarBrand:hover {
+	color: #d5d5d5;
+}
+
+.headerText {
+	color: #fff;
+	margin-top: 14px;
+	font-size: 17px;
+}
+
+.headerText:hover {
+	color: #d5d5d5;
+}
